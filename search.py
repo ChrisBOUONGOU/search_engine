@@ -47,7 +47,7 @@ def search(query, page=1, per_page=5):
 
     results = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
-    # pagination
+
     start = (page - 1) * per_page
     end = start + per_page
 
