@@ -1,0 +1,512 @@
+{
+    "Python": {
+        "data/python.txt": 1.3862943611198906
+    },
+    "is": {
+        "data/python.txt": 0.0,
+        "data/football.txt": 0.0,
+        "data/drake.txt": 0.0,
+        "data/oil.txt": 0.0,
+        "data/javascript.txt": 0.0,
+        "data/manga.txt": 0.0,
+        "data/php.txt": 0.0
+    },
+    "powerful": {
+        "data/python.txt": 1.3862943611198906
+    },
+    "language": {
+        "data/python.txt": 0.6931471805599453,
+        "data/javascript.txt": 0.6931471805599453,
+        "data/php.txt": 0.6931471805599453
+    },
+    "for": {
+        "data/python.txt": 0.28768207245178085,
+        "data/drake.txt": 0.5753641449035617,
+        "data/oil.txt": 0.28768207245178085,
+        "data/javascript.txt": 0.28768207245178085,
+        "data/php.txt": 0.28768207245178085
+    },
+    "web": {
+        "data/python.txt": 0.9808292530117262,
+        "data/php.txt": 0.9808292530117262
+    },
+    "development": {
+        "data/python.txt": 0.9808292530117262,
+        "data/php.txt": 0.9808292530117262
+    },
+    "and": {
+        "data/python.txt": 0.47000362924573563,
+        "data/drake.txt": 1.4100108877372068,
+        "data/javascript.txt": 0.9400072584914713,
+        "data/php.txt": 0.47000362924573563
+    },
+    "artificial": {
+        "data/python.txt": 1.3862943611198906
+    },
+    "intelligence": {
+        "data/python.txt": 1.3862943611198906
+    },
+    "Boca": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "greatest": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "club": {
+        "data/football.txt": 2.772588722239781
+    },
+    "in": {
+        "data/football.txt": 0.13353139262452257,
+        "data/drake.txt": 0.4005941778735677,
+        "data/oil.txt": 0.26706278524904514,
+        "data/javascript.txt": 0.13353139262452257,
+        "data/basket.txt": 0.26706278524904514,
+        "data/php.txt": 0.26706278524904514
+    },
+    "South": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "America": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "Flamengo": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "great": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "team": {
+        "data/football.txt": 0.9808292530117262,
+        "data/basket.txt": 0.9808292530117262
+    },
+    "Indepediente": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "del": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "valle": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "good": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "formation": {
+        "data/football.txt": 1.3862943611198906
+    },
+    "Sir": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Francis": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Drake": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "was": {
+        "data/drake.txt": 1.3862943611198906,
+        "data/javascript.txt": 0.6931471805599453,
+        "data/php.txt": 1.3862943611198906
+    },
+    "English": {
+        "data/drake.txt": 4.1588830833596715
+    },
+    "explorer": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "privateer": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "best": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "known": {
+        "data/drake.txt": 2.772588722239781
+    },
+    "making": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "second": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "circumnavigation": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "of": {
+        "data/drake.txt": 1.4100108877372068,
+        "data/javascript.txt": 1.4100108877372068,
+        "data/basket.txt": 0.9400072584914713,
+        "data/php.txt": 0.47000362924573563
+    },
+    "world": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "single": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "expedition": {
+        "data/drake.txt": 2.772588722239781
+    },
+    "between": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "1577": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "1580": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "being": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "first": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "to": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "accomplish": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "this": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "He": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "also": {
+        "data/drake.txt": 0.9808292530117262,
+        "data/oil.txt": 0.9808292530117262
+    },
+    "participating": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "early": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "slaving": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "voyages": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "cousin": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "John": {
+        "data/drake.txt": 2.772588722239781
+    },
+    "Hawkins": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Lovell": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Having": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "started": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "as": {
+        "data/drake.txt": 1.9616585060234524,
+        "data/basket.txt": 0.9808292530117262
+    },
+    "simple": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "seaman": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "1588": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "part": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "fight": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "against": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Spanish": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "Armada": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "vice": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "admiral": {
+        "data/drake.txt": 1.3862943611198906
+    },
+    "The": {
+        "data/oil.txt": 0.6931471805599453,
+        "data/basket.txt": 1.3862943611198906,
+        "data/php.txt": 0.6931471805599453
+    },
+    "oil": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "very": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "important": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "cars": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "But": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "many": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "thing": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "life": {
+        "data/oil.txt": 1.3862943611198906
+    },
+    "JavaScript": {
+        "data/javascript.txt": 2.772588722239781
+    },
+    "programming": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "core": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "technology": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "Web": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "alongside": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "HTML": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "CSS": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "It": {
+        "data/javascript.txt": 0.9808292530117262,
+        "data/php.txt": 0.9808292530117262
+    },
+    "created": {
+        "data/javascript.txt": 0.9808292530117262,
+        "data/php.txt": 0.9808292530117262
+    },
+    "by": {
+        "data/javascript.txt": 0.9808292530117262,
+        "data/php.txt": 1.9616585060234524
+    },
+    "Brendan": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "Eich": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "1995": {
+        "data/javascript.txt": 0.9808292530117262,
+        "data/php.txt": 0.9808292530117262
+    },
+    "As": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "2025": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "overwhelming": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "majority": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "websites": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "989": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "uses": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "client": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "side": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "webpage": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "behavior": {
+        "data/javascript.txt": 1.3862943611198906
+    },
+    "San": {
+        "data/basket.txt": 2.772588722239781
+    },
+    "Antonio": {
+        "data/basket.txt": 2.772588722239781
+    },
+    "Spurs": {
+        "data/basket.txt": 2.772588722239781
+    },
+    "are": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "American": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "professional": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "basketball": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "based": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "compete": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "National": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Basketball": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Association": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "NBA": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "member": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Southwest": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Division": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Western": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "Conference": {
+        "data/basket.txt": 1.3862943611198906
+    },
+    "My": {
+        "data/manga.txt": 2.772588722239781
+    },
+    "favorite": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "manga": {
+        "data/manga.txt": 2.772588722239781
+    },
+    "Jojos": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "Bizarre": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "adventure": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "worst": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "Higurashi": {
+        "data/manga.txt": 1.3862943611198906
+    },
+    "PHP": {
+        "data/php.txt": 6.931471805599453
+    },
+    "generalpurpose": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "scripting": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "geared": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "towards": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "DanishCanadian": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "programmer": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Rasmus": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Lerdorf": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "1993": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "released": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "reference": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "implementation": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "now": {
+        "data/php.txt": 2.772588722239781
+    },
+    "produced": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Group": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "originally": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "abbreviation": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Personal": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Home": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Page": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "but": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "stands": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "recursive": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "backronym": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Hypertext": {
+        "data/php.txt": 1.3862943611198906
+    },
+    "Preprocessor": {
+        "data/php.txt": 1.3862943611198906
+    }
+}

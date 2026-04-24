@@ -21,7 +21,7 @@ def main():
 
         print("\n📄 Result :")
         for doc, score in results:
-            print(f"{doc} (score: {score:.4f})")
+            print(f"{doc} (score: {int(score)})")
 
         print("\n")
 
