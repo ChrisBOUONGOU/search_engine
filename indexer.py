@@ -8,10 +8,10 @@ def build_index(folder_path):
     inverted_index = {}
     doc_count = 0
     documents = {}
-    fichiers = glob.glob(os.path.join(folder_path, '*.txt'))
+    fichiers = glob.glob(os.path.join(folder_path, '*.txt')) #Take all files in the folder
 
     for filename in fichiers:
-        if filename.endswith(".txt"):
+        if filename.endswith(".txt"): #If file finished by extension "txt"
             doc_count += 1
 
             with open(filename, "r", encoding="utf-8") as f:
